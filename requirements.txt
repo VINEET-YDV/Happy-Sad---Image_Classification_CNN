@@ -1,6 +1,6 @@
 numpy
 Pillow
 streamlit
-tensorflow==2.12.0
+tensorflow==2.10
 ipykernel
 altair
